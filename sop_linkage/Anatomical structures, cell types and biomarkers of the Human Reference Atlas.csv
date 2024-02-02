@@ -1,0 +1,179 @@
+﻿Type,Name,Link
+Weblink,Medical Research Council,https://mrc.ukri.org
+Weblink,Human Gene Ontology Nomenclature Committee,https://www.genenames.org/
+Weblink,Supplementary information,https://www.nature.com/articles/s41556-021-00788-6#MOESM1
+GitHub,HuBMAP Consortium CCF User Interfaces,https://github.com/hubmapconsortium/ccf-ui
+Weblink,Visible Human Massive Open Online Course,https://expand.iu.edu/browse/sice/cns/courses/hubmap-visible-human-mooc
+Weblink,Babylon.js sandbox,https://sandbox.babylonjs.com/
+Weblink,ASCT+B Working Group Registration,https://iu.co1.qualtrics.com/jfe/form/SV_bpaBhIr8XfdiNRH
+References,Single-Cell RNA-Seq Technologies and Related Computational Data Analysis,https://doi.org/10.3389/fgene.2019.00317
+References,The human cell atlas: from vision to reality,
+References,The Human Cell Atlas,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29206104
+References,Comprehensive cellular-resolution atlas of the adult human brain,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27418273
+References,The challenge of connecting the dots in the B.R.A.I.N. Neuron,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24139032
+References,The human cell atlas project by the numbers: relationship to the Banff classification,
+References,The Genotype-Tissue Expression (GTEx) project,https://www.nature.com/articles/ng.2653
+References,GUDMAP: the genitourinary developmental molecular anatomy project,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18287559
+References,Cells of the human intestinal tract mapped across space and time,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34497389
+References,"The making of a PreCancer Atlas: promises, challenges, and opportunities",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30064661
+References,The human body at cellular resolution: the NIH Human Biomolecular Atlas Program,
+References,Systematic integration of biomedical knowledge prioritizes drugs for repurposing,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28936969
+References,A multimodal and integrated approach to interrogate human kidney biopsies with rigor and reproducibility: guidelines from the Kidney Precision Medicine Project,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33197228
+References,LungMAP: the molecular atlas of lung development program,
+References,(Re)building a kidney,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28096308
+References,Stimulating Peripheral Activity to Relieve Conditions (SPARC),https://commonfund.nih.gov/sparc
+References,Cancer genome sequencing the challenges ahead,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17621658
+References,TGCA Research Network Comprehensive genomic characterization defines human glioblastoma genes and core pathways,
+References,Exploratory analysis of the copy number alterations in glioblastoma multiforme,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19115005
+References,High Resolution Imaging in Microscopy and Ophthalmology,
+References,High spatial resolution imaging of biological tissues using nanospray desorption electrospray ionization mass spectrometry,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31723300
+References,Deep profiling of mouse splenic architecture with CODEX multiplexed imaging,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30078711
+References,Tissue-based map of the human proteome,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25613900
+References,Single-cell chromatin accessibility reveals principles of regulatory variation,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26083756
+References,Simultaneous epitope and transcriptome measurement in single cells,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28759029
+References,"Spatially resolved, highly multiplexed RNA profiling in single cells",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25858977
+References,High-throughput single-cell gene-expression profiling with multiplexed error-robust fluorescence in situ hybridization,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27625426
+References,A scalable technology for measuring genome-wide expression at high spatial resolution,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30923225
+References,Spatially resolved transcriptomes-next generation tools for tissue exploration,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32363691
+References,"C. R. GeoMx RNA Assay: high multiplex, digital, spatial analysis of RNA in FFPE tissue",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32394392
+References,"Visium Spatial Gene Expression (10x Genomics, 2021)",https://www.10xgenomics.com/products/spatial-gene-expression
+References,Common cell type nomenclature for the mammalian brain,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33372656
+References,"M. A. Uberon, an integrative multi-species anatomy ontology",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22293552
+References,The foundational model of anatomy in OWL 2 and its use,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23273493
+References,A reference ontology for biomedical informatics: the Foundational Model of Anatomy,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14759820
+References,Logical development of the Cell Ontology,
+References,"Allen Human Reference Atlas—3D, 2020 (2021)",http://download.alleninstitute.org/informatics-archive/allen_human_reference_atlas_3d_2020/version_2021
+References,The Cardiac Atlas Project: an imaging database for computational modeling and statistical atlases of the heart,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21737439
+References,Deciphering the functioning of microbial communities: shedding light on the critical steps in metaproteomics,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31708885
+References,Prospective isolation of human clonogenic common myeloid progenitors,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12193648
+References,Immunophenotypic profile of nucleated erythroid progenitors during maturation in regenerating bone marrow,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23452116
+References,Identification of a human clonogenic progenitor with strict monocyte differentiation potential: a counterpart of mouse cMoPs,
+References,Comprehensive phenotyping of T cells using flow cytometry,
+References,Maturation-associated gene expression profiles along normal human bone marrow monopoiesis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28079251
+References,Human marrow megakaryocyte differentiation: multiparameter correlative analysis identifies von Willebrand factor as a sensitive and distinctive marker for early (2N and 4N) megakaryocytes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15198950
+References,Revised map of the human progenitor hierarchy shows the origin of macrophages and dendritic cells in early lymphoid development,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=20543838
+References,Flow cytometric study of neutrophilic granulopoiesis in normal bone marrow using an expanded panel of antibodies: correlation with morphologic assessments,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14730556
+References,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31624246
+References,Advances in human B cell phenotypic profiling,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23087687
+References,The Human Cell Atlas bone marrow single-cell interactive web portal,
+References,Novel strategy for phenotypic characterization of human B lymphocytes from precursors to effector cells by flow cytometry,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27657694
+References,Decoding human fetal liver haematopoiesis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31597962
+References,Conserved cell types with divergent features in human versus mouse cortex,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31435019
+References,An anatomically comprehensive atlas of the adult human brain transcriptome,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22996553
+References,Cells of the adult human heart,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32971526
+References,Transcriptional and cellular diversity of the human heart,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32403949
+References,M. R. Human intestinal M cells display the sialyl Lewis A antigen,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=9916113
+References,Development and function of secondary and tertiary lymphoid organs in the small intestine and the colon,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27656182
+References,Neuronal populations in the submucous plexus of the human colon,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2621148
+References,"Structure, lymphatic vascularization and lymphocyte migration in mucosa-associated lymphoid tissue",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12969318
+References,"Callaghan, B. P., Rivera, L. R. & Cho, H. J. The enteric nervous system and gastrointestinal innervation: integrated local and central control",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24997029
+References,Morphometrical and cell kinetic studies of normal human colorectal mucosa. Comparison between the proximal and the distal large intestine,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2618659
+References,Immune profiling of human gut-associated lymphoid tissue identifies a role for isolated lymphoid follicles in priming of region-specific immunity,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32160523
+References,Transcriptomic and proteomic signatures of stemness and differentiation in the colon crypt,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32814826
+References,Evidence for regional specialization and extrathymic T cell maturation in the human gut epithelium,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=7495755
+References,A standard nomenclature for structures of the kidney. The Renal Commission of the International Union of Physiological Sciences (IUPS),http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=3352156
+References,A single-nucleus RNA-sequencing pipeline to decipher the molecular anatomy and pathophysiology of human kidneys,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31249312
+References,Molecular determinants of nephron vascular specialization in the kidney,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31836710
+References,Single cell transcriptomics identifies focal segmental glomerulosclerosis remission endothelial biomarker,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213795
+References,"Single-cell profiling reveals sex, lineage, and regional diversity in the mouse kidney",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31689386
+References,Quantitative proteomics of all 14 renal tubule segments in rat,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32358040
+References,Decoding myofibroblast origins in human kidney fibrosis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33176333
+References,Spatiotemporal immune zonation of the human kidney,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31604275
+References,Cell profiling of mouse acute kidney injury reveals conserved cellular responses to injury,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32571916
+References,Morphometry of the human pulmonary acinus,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=3382030
+References,Building and regenerating the lung cell by cell,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30427276
+References,A single-cell atlas of the airway epithelium reveals the CFTR-rich pulmonary ionocyte,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30069046
+References,Single-cell RNA sequencing identifies diverse roles of epithelial cells in idiopathic pulmonary fibrosis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27942595
+References,Single-cell RNA-seq reveals ectopic and aberrant lung-resident cell populations in idiopathic pulmonary fibrosis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32832599
+References,Single-cell multiomic profiling of human lungs reveals cell-type-specific and age-dynamic control of SARS-CoV2 host genes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33164753
+References,A molecular cell atlas of the human lung from single-cell RNA sequencing,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33208946
+References,Distinctive localization of antigen-presenting cells in human lymph nodes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18987360
+References,Distinct microbial and immune niches of the human colon. Nat,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32066951
+References,Association of T-zone reticular networks and conduits with ectopic lymphoid tissues in mice and humans,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21435450
+References,Mapping the distinctive populations of lymphatic endothelial cells in different zones of human lymph nodes,
+References,A single-cell transcriptional roadmap of the mouse and human lymph node lymphatic vasculature,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32426372
+References,Single-cell survey of human lymphatics unveils marked endothelial cell heterogeneity and mechanisms of homing for neutrophils,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31402260
+References,Identity and diversity of human peripheral Th and T regulatory cells defined by single-cell mass cytometry,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29180490
+References,"Immunohistochemical expression of endothelial markers CD31, CD34, von Willebrand factor, and Fli-1 in normal human tissues",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16234507
+References,Developmental cell programs are co-opted in inflammatory skin disease,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33479125
+References,Spatially and cell-type resolved quantitative proteomic atlas of healthy human skin,
+References,Keratins and the skin,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8689554
+References,Skin immune sentinels in health and disease,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19763149
+References,Skin innervation: important roles during normal and pathological cutaneous repair,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25799052
+References,The blood vessels of the skin,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=778283
+References,"A Single Cell Atlas of Adult Healthy, Psoriatic and Atopic Dermatitis Skin (2021)",https://developmentcellatlas.ncl.ac.uk/datasets/hca_skin_portal
+References,The skin immune system (SIS): distribution and immunophenotype of lymphocyte subpopulations in normal human skin,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=3494791
+References,New consensus nomenclature for mammalian keratins,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=16831889
+References,"The Anatomical Basis of Clinical Practice (Elsevier, 2016)",
+References,Innate lymphoid cells: a new paradigm in immunology,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25999512
+References,Regulatory T cells in skin,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28699278
+References,A tissue-restricted cAMP transcriptional response: SOX10 modulates alpha-melanocyte-stimulating hormone-triggered expression of microphthalmia-associated transcription factor in melanocytes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12944398
+References,Human skin dendritic cells in health and disease,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25301671
+References,"Normal structure, function, and histology of the spleen",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17067939
+References,"scRNA-seq assessment of the human lung, spleen, and esophagus tissue stability after cold preservation",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31892341
+References,"DEC-205/CD205+ dendritic cells are abundant in the white pulp of the human spleen, including the border region between the red and white pulp",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17944899
+References,Human spleen microanatomy: why mice do not suffice,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=25827019
+References,B lymphocyte compartments in the human splenic red pulp: capillary sheaths and periarteriolar regions,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24337546
+References,Phenotypic differences between red pulp capillary and sinusoidal endothelia help localizing the open splenic circulation in humans,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17849140
+References,The characteristics of vessel lining cells in normal spleens and their role in the pathobiology of myelofibrosis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29776986
+References,A single-cell atlas of the human healthy airways,
+References,"Tumors of the Lymph Node and Spleen Ch. 1 (American Registry of Pathology, 2017)",
+References,"Benign and Reactive Conditions of Lymph Node and Spleen Ch. 1 (American Registry of Pathology, 2009",
+References,Structure and function of the immune system in the spleen,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30824527
+References,Human dendritic cell subsets from spleen and blood are similar in phenotype and function but modified by donor health status,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=21515786
+References,Origin and differentiation trajectories of fibroblastic reticular cells in the splenic white pulp,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30988302
+References,Immunohistology of the human spleen: an inventory of the localization of lymphocyte subpopulations,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=3516840
+References,The human spleen; a histological study in splenectomy specimens embedded in methylmethacrylate,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=4040884
+References,Single-cell transcriptional profiling of human thymic stroma uncovers novel cellular heterogeneity in the thymic medulla,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33597545
+References,The human thymic microenvironment,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=6209968
+References,A cell atlas of human thymic development defines T cell repertoire formation,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32079746
+References,"Normal structure, function and histology of the thymus",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=17067941
+References,Histology of the normal thymus,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2407143
+References,Neuro-immune modulation of the thymus microenvironment (Review),http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=24676230
+References,Isolation of myeloid dendritic cells and epithelial cells from human thymus,
+References,Thymic epithelium abnormalities in DiGeorge and Down syndrome patients contribute to dysregulation in T cell development,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30949166
+References,Identification and characterization of human thymic cortical dendritic macrophages that may act as professional scavengers of apoptotic thymocytes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=18926298
+References,Integrated scRNA-seq identifies human postnatal thymus seeding progenitors and regulatory dynamics of differentiating immature thymocytes,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32304633
+References,The human thymus perivascular space is a functional niche for viral-specific plasma cells,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28459117
+References,"Human thymus contains IFN-α-producing CD11c−, myeloid CD11c+, and mature interdigitating dendritic cells",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11285302
+References,"Atlas of Human Anatomy 7th edn (Elsevier, 2019)",
+References,Pulmonary vascular anatomy & anatomical variants,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30057869
+References,Microsurgical anatomy of the distal anterior cerebral artery,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=671075
+References,"The ascending pharyngeal artery: branches, anastomoses, and clinical significance",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=12169487
+References,"T. A. Vascular diseases of the spinal cord: infarction, hemorrhage, and venous congestive myelopathy",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27616317
+References,"Prostatic artery embolization for benign prostatic hyperplasia: patient evaluation, anatomy, and technique for successful treatment",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31348735
+References,Pseudolesion in segment IV A of the liver from vein of Sappey secondary to SVC obstruction,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27307867
+References,mRNA-Seq whole-transcriptome analysis of a single cell,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=19349980
+References,"Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region",https://doi.org/10.1126/science.aau5324
+References,International Human Genome Sequencing (IHGS) Consortium Initial sequencing and analysis of the human genome,
+References,The sequence of the human genome,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11181995
+References,"Visible Human Project (VHP) Data Sets (NLM, 2020)",https://www.nlm.nih.gov/databases/download/vhp.html
+References,"Fair Principles (Go Fair, 2021)",https://www.go-fair.org/fair-principles
+References,"CCF Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables (HuBMAP Consortium, 2021)",https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html
+References,"CCF 3D Reference Object Library (HuBMAP Consortium, 2021)",https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html
+References,"Graphics Language Transmission Format (glTF) a File Format Specification for 3D Scenes and Models (Khronos Group, 2021)",https://www.khronos.org/
+References,"CCF Registration User Interface (HuBMAP Consortium, 2021)",https://hubmapconsortium.github.io/ccf-ui/rui
+References,"CCF Exploration User Interface (HuBMAP Consortium, 2021)",https://portal.hubmapconsortium.org/ccf-eui
+References,"Human Biomolecular Atlas Program (HuBMAP) Data Portal (NIH, 2020)",https://portal.hubmapconsortium.org/
+References,"CCF User Interfaces (RUI, EUI) (HuBMAP Consortium, 2021)",https://github.com/hubmapconsortium/ccf-ui
+References,Blood and immune development in human fetal bone marrow and Down syndrome,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34588693
+References,Single-cell multi-omics analysis of the immune response in COVID-19,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33879890
+References,An atlas of healthy and injured cell states and niches in the human kidney,https://doi.org/10.1101/2021.07.28.454201
+References,A comprehensive analysis of NPHS1 gene mutations in patients with sporadic focal segmental glomerulosclerosis,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31216994
+References,Modelling kidney disease using ontology: insights from the Kidney Precision Medicine Project,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32939051
+References,Molecular characterization of the human kidney interstitium in health and disease,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33568476
+References,"ASCT+B Reporter (HuBMAP Consortium, 2021)",https://hubmapconsortium.github.io/ccf-asct-reporter
+References,The Human Cell Atlas and equity: lessons learned,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33029017
+References,"Spatial Biology Europe: Online (HuBMAP Consortium, 2021)",https://cns-iu.github.io/workshops/2021-2004-2014_spatial_biology_europe_online
+References,"Azimuth App for reference-based single-cell analysis (Satija Lab, 2021)",https://azimuth.hubmapconsortium.org/
+References,Integrated analysis of multimodal single-cell data,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34062119
+References,Cell type ontologies of the Human Cell Atlas,https://doi.org/10.1038/s41556-021-00787-7
+References,IBEX: an open and extensible method for high content multiplex imaging of diverse tissues,https://arxiv.org/abs/2107.11364
+References,Spatial mapping of protein composition and tissue organization: a primer for multiplexed antibody-based imaging,https://arxiv.org/abs/2107.07953
+References,Viv: multiscale visualization of high-resolution multiplexed bioimaging data on the web,https://doi.org/10.31219/osf.io/wd2gu
+References,C. K. Ubergraph (2021),https://github.com/INCATools/ubergraph
+References,"M. Y. Multiplex, quantitative cellular analysis in large tissue volumes with clearing-enhanced 3D microscopy (Ce3D)",http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=28808033
+References,3D Slicer as an image computing platform for the Quantitative Imaging Network,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22770690
+References,3D Slicer image computing platform (2021),https://www.slicer.org/
+References,"ZBrush, the all-in-one digital sculpting solution (Pixologic, 2021)",https://pixologic.com/
+References,"Maya: 3D computer animation, modeling, simulation, and rendering software (Autodesk, 2021)",https://www.autodesk.com/products/maya/overview

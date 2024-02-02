@@ -1,0 +1,65 @@
+﻿Category,Name,Link/Email
+Email,Ellen M. Quardokus,ellenmq@iu.edu
+Email,David Osumi-Sutherlad,davidos@ebi.ac.uk
+Email,Anita Caron,ANITARCARON@GMAIL.COM
+Weblink,"CCF Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables",https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html
+Weblink,Tissue Registration User Interface (RUI),https://hubmapconsortium.github.io/ccf-ui/rui/
+Youtube,RUI v3.0 Tutorial,https://youtu.be/gY3_-LIoKaU
+Weblink,The National Center for Biomedical Ontology (NCBO),https://bioportal.bioontology.org/
+Weblink,Ontology Look-up Service (OLS),https://www.ebi.ac.uk/ols/ontologies
+Weblink,Uber anatomy (Uberon) ,https://www.ebi.ac.uk/ols/ontologies/uberon
+Weblink,Foundational Models of Anatomy (FMA),https://bioportal.bioontology.org/ontologies/FMA
+Weblink,Cell Ontology (CL),https://www.ebi.ac.uk/ols/ontologies/cl
+Weblink,Human Gene Ontology Gene Nomenclature (HGNC) Multi-symbol checker,https://www.genenames.org/tools/multi-symbol-checker/
+Weblink,UniProt,https://www.uniprot.org/uploadlists/
+Weblink,HuBMAP Visible Human MOOC (VHMOOC),https://expand.iu.edu/browse/sice/cns/courses/hubmap-visible-human-mooc
+Weblink,ASCT+B Working Group Registration,https://iu.co1.qualtrics.com/jfe/form/SV_bpaBhIr8XfdiNRH
+Weblink,Common Coordination Framework (CCF) Portal,https://hubmapconsortium.github.io/ccf
+Weblink,ORCID,https://orcid.org/
+Document,ASCT+B blank template,https://docs.google.com/spreadsheets/d/1smQ8_3F-KSRlY7bmozsoM1EonQL4ahNaXP7zeQFf3Ko/edit#gid=496331652
+Weblink,ASCT+B REPORTER,https://hubmapconsortium.github.io/ccf-asct-reporter/
+Weblink,Azimuth,https://azimuth.hubmapconsortium.org/
+Weblink,ASCT+B Reporter Frequently Asked Questions (FAQ):,https://hubmapconsortium.github.io/ccf-asct-reporter/docs/faq
+Weblink,ASCT+B Reporter Documentation,https://hubmapconsortium.github.io/ccf-asct-reporter/docs/introduction
+Weblink,LipidMAPS unique identifiers (LM-ID),https://www.lipidmaps.org/data/classification/lipid_cns.html
+Weblink,National Center for Biomedical Ontology (NCBO) Bioportal,https://bioportal.bioontology.org/
+Weblink,Uber anatomy,https://bioportal.bioontology.org/ontologies/UBERON
+Weblink,Foundational Model of Anatomy,https://bioportal.bioontology.org/ontologies/FMA
+Weblink,Cell Ontology,https://bioportal.bioontology.org/ontologies/CL
+Document,ASCT+B_HumanViewNoDevUBERON_EMQ_01.04.2021,https://docs.google.com/spreadsheets/d/1cg_HNwANlJq9T9DJa6--PEINftVChQEJ/edit#gid=1869053397
+Weblink,ASCT+B_tables_true_partonomies_2021,https://drive.google.com/drive/folders/1b-37AbjPhRtgt5UiblCq9VGDjVhfuJTr
+Weblink,CCF-GRLC,http://grlc.io/api/hubmapconsortium/ccf-grlc/ubergraph/
+Weblink,Ontology Look-up service (OLS),http://purl.obolibrary.org/obo/UBERON_0000970
+Weblink,Gene Ontology Gene Nomenclature (HGNC) Multi-symbol checker,https://www.genenames.org/tools/multi-symbol-checker/
+Weblink,UniProt ,https://www.uniprot.org/uploadlists/
+Document,customHGNC_UniProt_NCBIRef.csv,https://drive.google.com/file/d/1T-oy-hNvaDc4uhYWWdM_NUSmHbvAE2pG/view
+Weblink,Proteoforms,https://www.topdownproteomics.org/
+Weblink,Lipids: LipidOntology (LION),https://bioportal.bioontology.org/ontologies/LION
+Weblink,Metabolites: Human Metabolome Database,https://hmdb.ca/
+Weblink,Metlin 2,https://metlincloud2.massconsortium.com/auth-login.html
+Document,NewTermRequests_uberon_CL_ASCT+B,https://docs.google.com/spreadsheets/d/1BihrOU9vWrsA_wYjcbdPUr42_Sb22CO3gkBDieiYQPs/edit?usp=sharing
+GitHub,Uberon or Cell Ontology (CL),https://github.com/obophenotype/uberon/issues
+GitHub,Cell Ontology,https://github.com/obophenotype/cell-ontology/issues
+Weblink,Cell Marker,http://biocc.hrbmu.edu.cn/CellMarker
+Weblink,Blood_Vasculature_v1.3_EXTENDED,https://docs.google.com/spreadsheets/d/11tkcqqz-cpUrfhUQvt5cSn2ntvOrv47ZoZte_D-MS8U/edit#gid=260079318
+Email,MC-IU,infoccf@indiana.edu
+GitHub,"MC-IU validation of AS-AS, AS-CT",https://github.com/obophenotype/asct-b_validation
+GitHub,CCF Validation Tools,https://github.com/hubmapconsortium/ccf-validation-tools
+Weblink,ASCT+B Reporter web application,https://hubmapconsortium.github.io/ccf-asct-reporter/
+GitHub,CCF Releases GitHub repository,https://github.com/hubmapconsortium/ccf-releases
+Weblink,CCF.OWL ontology on BioPortal,https://bioportal.bioontology.org/ontologies/CCF
+Weblink,HuBMAP HRA Portal,https://hubmapconsortium.github.io/ccf/index.html
+Weblink,Published HuBMAP 3D organ reference models,https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html
+GitHub,HuBMAP CCF ASCT+B Reporter,https://github.com/hubmapconsortium/ccf-asct-reporter/blob/main/README.md
+Weblink,ASCT+B Reporter,https://hubmapconsortium.github.io/ccf-asct-reporter/
+Weblink,Exploration User Interface (EUI),https://portal.hubmapconsortium.org/ccf-eui
+Weblink,FBX file format,https://code.blender.org/2013/08/fbx-binary-file-format-specification/
+Weblink,Flattened data table,https://stackoverflow.com/questions/687470/how-to-flatten-or-collapse-a-2d-excel-table-into-1d
+Weblink,GLB file format,https://docs.fileformat.com/3d/glb/
+Weblink,OBJ file format,https://www.cs.cmu.edu/~mbz/personal/graphics/obj.html
+Weblink,Open Researcher and Contributor ID (ORCID),https://orcid.org/
+Weblink,Protégé,https://protege.stanford.edu/
+Weblink,Resource Description Framework Schema (RDFS),https://www.w3.org/TR/rdf-schema/#ch_label
+Weblink,Registration User Interface (RUI),https://hubmap-ccf-ui.netlify.app/rui/
+Weblink,ROBOT,http://robot.obolibrary.org/
+Weblink,Web Ontology Language (.OWL) file format,https://www.w3.org/OWL/

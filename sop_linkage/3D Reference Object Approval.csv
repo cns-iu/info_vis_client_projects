@@ -1,0 +1,30 @@
+﻿Category,Name,Link/Email
+Email,MC-IU,infoccf@indiana.edu
+Weblink,CCF 3D Reference Object Library, https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html
+Weblink,CCF Portal,https://hubmapconsortium.github.io/ccf/index.html
+Weblink,Registration User Interface,https://hubmapconsortium.github.io/ccf-ui/rui/
+Weblink,Exploration User Interface,https://portal.hubmapconsortium.org/ccf-eui
+Email,Heidi Schlehlein,hschlehlein@gmail.com
+Email,Ellen Quardokus,ellenmq@iu.edu
+Email,Bruce W. Herr II ,bherr@iu.edu
+Email,Katy Börner,katy@iu.edu
+Document,Email_Template_3Drefmodel_anatomy_list,https://docs.google.com/document/d/1408FF5SeGwau9xtjwTnGf2y9k5M6M4UWk_BhhwMm7QQ/edit?usp=sharing
+Weblink,ASCT+B Working Group Registration,https://iu.co1.qualtrics.com/jfe/preview/SV_bpaBhIr8XfdiNRH?Q_CHL=preview&Q_SurveyVersionID=current
+Youtube,RUI demo,https://youtu.be/gY3_-LIoKaU
+Youtube,EUI demo,https://www.youtube.com/watch?v=YAHJqvD3Q_8
+Youtube,Bueckle BabylonJS Sandbox Demo,https://youtu.be/RIF-N8gqUdY
+GitHub,version history of the CCF user interfaces,https://github.com/hubmapconsortium/ccf-ui/blob/main/CHANGELOG.md
+Document,3D_modeling_gross_anatomy_list_per_organ,https://docs.google.com/spreadsheets/d/1cN-lPtFai6AEX6U-FczaGHk1x57-2um1z97daSHI0OU/edit#gid=758133555
+GitHub,ccf-3d-reference-object-library,https://github.com/hubmapconsortium/ccf-3d-reference-object-library
+Weblink,Babylon.js Sandbox,https://sandbox.babylonjs.com/
+Document,Babylon.js Instructions,https://drive.google.com/file/d/1jz59PTS2LN-cZ9YmgTghJXvc57bNNWZJ/view
+SOP,Using 3D Reference Objects,https://zenodo.org/record/5639652#.Y9MAcezMKhY
+Document,HuBMAP Dictionary,https://docs.google.com/document/d/1QhxfvoB0g5_EA6COje74z58xQxyEos7nlhc8-_eSFx4/edit
+References,3D Model Viewer,https://sandbox.babylonjs.com/
+References,3D models are stored on GitHub,https://github.com/hubmapconsortium/ccf-3d-reference-object-library
+References,"Published, DOI’d CCF-Releases are stored on GitHub",https://github.com/hubmapconsortium/ccf-releases
+References,3D models are featured on the CCF Portal,https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html
+References,CCF Exploration User Interface (EUI),https://hubmapconsortium.github.io/ccf-ui/home
+Weblink,FBX file format,https://code.blender.org/2013/08/fbx-binary-file-format-specification/
+Weblink,GLB file format,https://docs.fileformat.com/3d/glb/
+Weblink,OBJ file format,https://www.cs.cmu.edu/~mbz/personal/graphics/obj.html

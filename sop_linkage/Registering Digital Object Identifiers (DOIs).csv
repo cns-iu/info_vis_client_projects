@@ -1,0 +1,33 @@
+﻿Category,Name,Link
+Weblink,DataCite’s REST API ,https://support.datacite.org/docs/api-create-dois
+Weblink,DataCite metadata schema,https://schema.datacite.org/
+Weblink,Creating DOIs with the REST API,https://support.datacite.org/docs/api-create-dois
+GitHub,CCF releases GitHub repository,https://github.com/hubmapconsortium/ccf-releases
+Email,Bill Shirey ,shirey@pitt.edu
+Email,Ellen M. Quardokus,ellenmq@indiana.edu
+Email,Bruce W. Herr II ,bherr@indiana.edu
+GitHub,CCF-releases GitHub repository,https://github.com/hubmapconsortium/ccf-releases
+GitHub,CCF-releases GitHub repository V1.0,https://github.com/hubmapconsortium/ccf-releases/tree/main/v1.0
+GitHub,CCF-releases GitHub repository V1.1,https://github.com/hubmapconsortium/ccf-releases/tree/main/v1.1
+GitHub,CCF-releases GitHub repository V1.2,https://github.com/hubmapconsortium/ccf-releases/tree/main/v1.2
+GitHub,CCF-releases GitHub repository V1.3,https://github.com/hubmapconsortium/ccf-releases/tree/main/v1.3
+Document,CCF_Portal_Info_Template_for DOI_registration,https://docs.google.com/document/d/1JpQ6oD2SuDOGtwWIuDX0F84smZZegJXFcFFQRk9t5KQ/edit
+Weblink,DOI Formation,https://doi.org/10.48539/
+Weblink,Oxygen XML Editor,https://www.oxygenxml.com/
+Weblink,Excel to create XML,https://blog.udemy.com/excel-to-xml/
+GitHub,XML template,https://github.com/hubmapconsortium/ccf-releases/blob/main/v1.0/xml/template.xml
+GitHub,XML files,https://github.com/hubmapconsortium/ccf-releases/tree/main/v1.0/xml
+GitHub,Datacite Metadata Generator,https://github.com/mpaluch/datacite-metadata-generator
+Weblink,"Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow/Pelvis v1.2",https://doi.org/10.48539/HBM449.NWVK.668
+Weblink,Identifier scheme URI ,https://orcid.org/0000-0001-9961-7673
+Weblink,Lung ASCT+B table,https://hubmapconsortium.github.io/ccf-releases/v1.2/docs/asct-b/lung.html
+Weblink,HRA Rights list,https://creativecommons.org/licenses/by/4.0
+GitHub,ccf-releases reference-entity-ids,https://github.com/hubmapconsortium/ccf-releases/blob/main/reference-entity-ids.tsv
+References,DataCite Metadata Schema Documentation,https://schema.datacite.org/meta/kernel-4.4/doc/DataCite-MetadataKernel_v4.4.pdf
+References,Datacite metadata schema,https://schema.datacite.org/meta/kernel-4.3/doc/DataCite-MetadataKernel_v4.3.pdf
+References,Metadata XML Example,https://schema.datacite.org/meta/kernel-4.3/example/datacite-example-full-v4.xml
+References,Template XML file,https://github.com/hubmapconsortium/ccf-releases/blob/main/v1.0/xml/template.xml
+References,Examples from first set of 3D ref organs,https://drive.google.com/file/d/1Z9bRsSi9_7qy-d1FHom4HTMuAZjfAS0o/view
+References,crosswalk,https://docs.google.com/spreadsheets/d/11R_jU5039V1Zdd2f12waG8qe57GfLtkEtdiaL_6DIIg/edit#gid=0
+References,Links to additional examples,https://schema.datacite.org/meta/kernel-4.3/
+Glossary,GLB file format,https://docs.fileformat.com/3d/glb/
