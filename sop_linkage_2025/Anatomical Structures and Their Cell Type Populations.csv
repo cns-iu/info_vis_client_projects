@@ -1,0 +1,9 @@
+Category,Name,Link
+References,"Börner, Katy, Andreas Bueckle, Bruce W. Herr, Leonard E. Cross, Ellen M. Quardokus, Elizabeth G. Record, Yingnan Ju, et al. 2022. “Tissue Registration and Exploration User Interfaces in Support of a Human Reference Atlas.” Communications Biology 5 (1): 1369",https://doi.org/10.1038/s42003-022-03644-x
+References,"Bueckle, Andreas, Catherine Qing, Shefali Luley, Yash Kumar, Naval Pandey, and Katy Börner. 2023. “The HRA Organ Gallery Affords Immersive Superpowers for Building and Exploring the Human Reference Atlas with Virtual Reality.” Frontiers in Bioinformatics 3",https://doi.org/10.3389/fbinf.2023.1162723
+References,"Domínguez Conde, C., C. Xu, L. B. Jarvis, D. B. Rainbow, S. B. Wells, T. Gomes, S. K. Howlett, et al. n.d. “Cross-Tissue Immune Cell Analysis Reveals Tissue-Specific Features in Humans.” Science 376 (6594): eabl5197",https://doi.org/10.1126/science.abl5197
+References,"Hao, Yuhan, Stephanie Hao, Erica Andersen-Nissen, William M. Mauck, Shiwei Zheng, Andrew Butler, Maddie J. Lee, et al. 2021. “Integrated Analysis of Multimodal Single-Cell Data.” Cell 184 (13): 3573-3587.e29",https://doi.org/10.1016/j.cell.2021.04.048
+Github,"YosefLab. 2023. “Releases · YosefLab/PopV.” June 8, 2023",https://github.com/YosefLab/PopV
+Github,Initial set of atlas data,https://github.com/cns-iu/hra-cell-type-populations-supporting-information/tree/main
+Github,Code to randomly place cells of different types inside 3D anatomical structures,https://github.com/cns-iu/ccf-cell-generation
+Github,Contains code to compute 3D corridors,https://github.com/cns-iu/3d-corridor

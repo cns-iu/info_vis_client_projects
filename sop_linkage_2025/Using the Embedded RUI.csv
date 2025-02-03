@@ -1,0 +1,22 @@
+Category,Name,Link
+Weblink,Human Reference Atlas Portal,https://humanatlas.io/
+Weblink,HuBMAP Ingest Portal,https://ingest.hubmapconsortium.org
+Weblink,SenNet Ingest Portal,https://data.sennetconsortium.org
+Video,RUI Video Demonstration ,https://youtu.be/j4f9_xdBrK0
+Email,Andreas Bueckle,abueckle@iu.edu
+Email,Danial Qaurooni,dequeue@iu.edu
+Weblink,HuBMAP EUI,https://portal.hubmapconsortium.org/ccf-eui
+Weblink,SenNet EUI,https://data.sennetconsortium.org/ccf-eui
+Weblink,SenNet Data Submission Guidelines,https://docs.sennetconsortium.org/data-submission/
+Video,EUI Video Demonstration ,https://youtu.be/UloDIG0S64w
+Document,Tissue Registration Issues,https://docs.google.com/forms/d/e/1FAIpQLSe0faIih0S-1zqn5FCdalCF7YTxK7ECMgg0svVv0dvlEF7gKQ/viewform
+Refeferences,"Börner, Katy, Andreas Bueckle, Bruce W. Herr II, Leonard E. Cross, Ellen M. Quardokus,
+Elizabeth G. Record, Yingnan Ju, Jonathan C. Silverstein, Kristen M. Browne, Sanjay
+Jain, Clive H. Wasserfall, Marda L. Jorgensen, Jeffrey M. Spraggins, Nathan H.
+Patterson, and Griffin M. Weber. 2022.
+""Tissue registration and exploration user
+interfaces in support of a human reference atlas""
+. Communications Biology 5: 1369
+(2022)",https://doi.org/10.1038/s42003-022-03644-x
+Weblink,Exploration User Interface ,https://apps.humanatlas.io/eui/
+Weblink,HRA Organ Library,https://humanatlas.io/3d-reference-library

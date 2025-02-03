@@ -1,0 +1,7 @@
+Category,Name,Link
+Weblink,ASCT+B Azimuth,https://humanatlas.io/asctb-azimuth
+References,"Börner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. “Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.” Nature Cell Biology 23 (11): 1117–28",https://doi.org/10.1038/s41556-021-00788-6
+Github,ASCT+B Validation code,https://github.com/hubmapconsortium/ccf-validation-tools
+Github,Validation Reports,https://hubmapconsortium.github.io/ccf-validation-tools/
+Github,Code for structural validation checks of ASCT+B tables,https://github.com/hubmapconsortium/ccf-asct-reporter/blob/main/asctb-api/scripts/generate-draft-validation-reports.js
+Github,Tools used for creating the final HRA release,https://github.com/hubmapconsortium/ccf-releases/tree/main/rel-tools

@@ -1,0 +1,20 @@
+Category,Name,Link
+Weblink,Blood Vasculature,https://lod.humanatlas.io/asct-b/blood-vasculature-organ-crosswalk/v1.2/
+Weblink,Lymph Vasculature,https://lod.humanatlas.io/asct-b/lymph-vasculature/v1.5/
+Weblink,Peripheral nervous system,https://lod.humanatlas.io/asct-b/peripheral-nervous-system-organ-crosswalk/v1.0/
+Email,Sanjay Jain,sanjayjain@wustl.edu
+Email,M. Todd Valerius,mtvalerius@bwh.harvard.edu
+Email,Gloria Pryhuber,gloria_pryhuber@urmc.rochester.edu
+Email,Martha Campbell-Thompson,thompmc@pathology.ufl.edu
+Email,Robin Wang,robin8@stanford.edu
+Email,Valeria Bustos,vbhvale@hotmail.com
+Email,Griffin Weber,weber@hms.harvard.edu
+Email,Ellen Quardokus,ellenmq@iu.edu
+Email,Katherine Gustilo,katherine.gustilo@cuanschutz.edu
+Email,Dhruv Singhal,dsinghal@bidmc.harvard.edu
+Email,Maxim Itkin,maxim.itkin2@pennmedicine.upenn.edu
+Email,Avinash Boppana,asboppana@gmail.com
+Email,Ilias Ziogas,ziogasilias@gmail.com
+Email,Fahim Imam,fahim.imam@queensu.ca
+SOP,Constructing Blood Vasculature-Organ Crosswalk Diagrams,https://zenodo.org/doi/10.5281/zenodo.11623897
+SOP,"Authoring Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables",https://zenodo.org/doi/10.5281/zenodo.5746152

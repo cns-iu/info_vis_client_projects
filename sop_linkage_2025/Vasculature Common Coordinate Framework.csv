@@ -1,0 +1,6 @@
+Category,Name,Link
+SOP,Authoring the Pathway Crosswalk Table,https://zenodo.org/doi/10.5281/zenodo.11623414
+SOP,Authoring the Pathway Organ CrosswalksTables,https://zenodo.org/doi/10.5281/zenodo.11623744
+SOP,Authoring the Blood Vasculature Geometry Table,https://zenodo.org/doi/10.5281/zenodo.11623222
+SOP,Constructing Blood Vasculature-Organ Crosswalk Diagrams,https://zenodo.org/doi/10.5281/zenodo.11623897
+Github,HRA-VCCF database and SQL scripts to generate the CSV files,https://github.com/hubmapconsortium/hra-vccf

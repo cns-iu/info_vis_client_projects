@@ -1,0 +1,15 @@
+Category,Name,Link
+Weblink,HRA Portal,https://humanatlas.io
+Email,Heidi Schlehlein,hschleh@iu.edu
+Email,Ellen M. Quardokus ,ellenmq@iu.edu
+Email,Bruce W. Herr II ,bherr@iu.edu
+Email,Katy Borner,katy@indiana.edu
+SOP,3D Reference Object Approval,https://doi.org/10.5281/zenodo.5944196
+Github,Script written in MEL,https://github.com/hubmapconsortium/ccf-3d-reference-object-library/tree/main/MetadataScript
+Github,Github Repository,https://github.com/hubmapconsortium/ccf-3d-reference-object-library
+Github,CCF Releases,https://github.com/hubmapconsortium/ccf-releases
+References,Github Desktop,https://desktop.github.com/
+Weblink,Explorating User Interface,https://portal.hubmapconsortium.org/ccf-eui
+Weblink,GLB File Format,https://docs.fileformat.com/3d/glb/
+Weblink,OBJ File Format,https://www.cs.cmu.edu/~mbz/personal/graphics/obj.html
+Weblink,Registration User Interface,https://hubmap-ccf-ui.netlify.app/rui/

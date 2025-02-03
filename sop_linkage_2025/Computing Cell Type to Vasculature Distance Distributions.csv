@@ -1,0 +1,11 @@
+Category,Name,Link
+Email,Yingnan Ju,yiju@iu.edu
+Email,Yashvardhan Jain,yashjain@iu.edu
+Github,Data Preparation Code,https://github.com/hubmapconsortium/vccf-visualization-2022/blob/main/visualization/GE_visualization_3D.py
+Github,Distance Computation Code,https://github.com/hubmapconsortium/vccf-visualization-2022/blob/main/visualization/GE_visualization_3D.py
+Github,Code for Optimizing the calculation,https://github.com/hubmapconsortium/vccf-visualization-2022/blob/main/visualization/GE_visualization_3D.py
+Github,Results and Visualization,https://github.com/hubmapconsortium/vccf-visualization-2022/blob/main/visualization/GE_visualization_3D.py
+References,"Ghose, S., Ju, Y., McDonough, E. et al. 3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging. Commun Biol 6, 718 (2023). https://doi.org/10.1038/s42003-023-04991-z",https://www.nature.com/articles/s42003-023-04991-z
+Github,"Companion Website for ""3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging""",https://hubmapconsortium.github.io/vccf-visualization-2022/
+Github,Code Repository,https://github.com/hubmapconsortium/vccf-visualization-2022/tree/main
+Github,Companion Website ,https://hubmapconsortium.github.io/vccf-visualization-2022/

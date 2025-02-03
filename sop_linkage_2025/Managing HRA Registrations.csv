@@ -1,0 +1,22 @@
+Category,Name,Link
+Email,Dan Qaurooni,dequeue@iu.edu
+Email,Katy Borner,katy@iu.edu
+Email,Bruce W. Herr II,bherr@iu.edu
+Weblink,RUI Registration Google Form,https://docs.google.com/forms/d/e/1FAIpQLSehN7WQjAlOi657oRREBBzi9VsfFTFVFrVRKG282P-piqyGXQ/viewform
+Document,RUI Registration Dashboard,https://docs.google.com/spreadsheets/d/1ZRj75o5FGKYQvZbovn4s11ilyZLmg6titsK2y_9XQxI/edit?gid=1030236164#gid=1030236164
+Weblink,3D Reference Library,https://humanatlas.io/3d-reference-library
+Weblink,Registration User Interface,https://humanatlas.io/registration-user-interface
+SOP,Assigning RUI Data to Multiple Tissue Blocks,https://zenodo.org/records/6628459
+Weblink,Human BioMolecular Atlas Program,https://hubmapconsortium.org
+Weblink,HuBMAP Data Portal,https://portal.hubmapconsortium.org
+Weblink,SenNet Data Portal,https://data.sennetconsortium.org/
+Github,HuBMAP Consortium GitHub project page,https://github.com/hubmapconsortium/hra-registrations
+Weblink,VSCode,https://code.visualstudio.com/
+Github,HRA - RUI Locations Processor README file,https://github.com/hubmapconsortium/hra-rui-locations-processor/tree/main#readme
+Weblink,Git's Style Suggestions,https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?h=v2.36.1#n181
+Github,Registrations Schema,https://github.com/hubmapconsortium/hra-rui-locations-processor/blob/main/registrations.schema.json
+Github,Writing YAML files for HRA registrations README,https://github.com/hubmapconsortium/hra-rui-locations-processor/blob/main/README.md
+Github,The public Common Coordinate Framework Registration User Interface (CCF RUI),https://hubmapconsortium.github.io/ccf-ui/rui
+SOP,"Bueckle, Andreas. 2022. “SOP: Using the CCF Registration User Interface”. Zenodo",https://zenodo.org/records/14675303
+Weblink,Exploration User Interface (EUI),https://apps.humanatlas.io/eui
+Weblink,Registration User Interface (RUI),https://apps.humanatlas.io/rui/
